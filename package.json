@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@googleapis/drive": "^8.7.0",
     "@stdlib/assert-has-utf16-surrogate-pair-at": "^0.1.0",
     "axios": "^0.27.2",
     "cli-progress": "^3.12.0",

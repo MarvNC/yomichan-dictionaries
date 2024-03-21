@@ -1,3 +1,5 @@
+.env
+
 !dl/*.zip
 node_modules
 allKanji.json
